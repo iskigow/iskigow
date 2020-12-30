@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iskigow.iskigow)
+
+![Iskigow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskigow&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskigow&layout=compact)
+
 <!--
 **iskigow/iskigow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
