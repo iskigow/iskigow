@@ -2,9 +2,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iskigow.iskigow)
 
-![Iskigow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskigow&show_icons=true)
+![Rodrigo Catto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskigow&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskigow&layout=compact)
+![Rodrigo Catto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigo_catto&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskigow&layout=compact&langs_count=10&theme=tokyonight)
 
 <!--
 **iskigow/iskigow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
