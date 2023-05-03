@@ -4,7 +4,7 @@
 
 ![Rodrigo Catto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskigow&show_icons=true&theme=tokyonight)
 
-![Rodrigo Catto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigo_catto&theme=tokyonight)
+![Rodrigo Catto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rodrigo_catto&theme=tokyonight&range=last_7_days)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskigow&layout=compact&langs_count=10&theme=tokyonight)
 
